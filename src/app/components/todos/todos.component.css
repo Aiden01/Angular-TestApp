@@ -1,0 +1,7 @@
+.todo {
+  background: #eeeeee;
+}
+
+.todo h1.done {
+  text-decoration: line-through;
+}

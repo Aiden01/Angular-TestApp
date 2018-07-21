@@ -1,0 +1,6 @@
+<ul>
+  <li *ngFor="let todo of todos" class="todo">
+    <h1 [ngClass]="{'done': todo.done}" (dblclick)="makeDone(todo)">{{ todo.title }}</h1>
+    <button (click)="delete(todo)">Supprimer</button>
+  </li>
+</ul>

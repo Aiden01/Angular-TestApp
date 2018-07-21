@@ -1,0 +1,20 @@
+{
+   "posts": [
+    {
+      "title": "Lorem ipsum",
+      "done": false
+  },
+  {
+      "title": "Lorem ipsum",
+      "done": true
+  },
+  {
+      "title": "Lorem ipsum",
+      "done": true
+  },
+  {
+      "title": "Lorem ipsum",
+      "done": false
+  }
+   ]
+}
